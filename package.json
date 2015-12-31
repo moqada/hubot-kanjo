@@ -1,7 +1,7 @@
 {
   "name": "hubot-kanjo",
   "description": "Summarize AWS Billing for Hubot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "moqada <moqada@gmail.com>",
   "bugs": {
     "url": "https://github.com/moqada/hubot-kanjo/issues"
