@@ -34,6 +34,8 @@ module.exports = (robot) ->
       account: AWS_ACCOUNT_ID
       bucket: AWS_BUCKET_NAME
       region: AWS_REGION
+      accessKeyId: AWS_ACCESS_KEY_ID
+      secretAccessKey: AWS_SECRET_KEY
     })
     if year and month
       year = parseInt year, 10
