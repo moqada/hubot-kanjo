@@ -48,6 +48,9 @@ module.exports = (robot) ->
       #{outputTable report}
       """
       res.send output
+    .catch (err) ->
+      console.error err
+      res.send "Error: #{err}"
 
 
 outputTable = (report) ->
