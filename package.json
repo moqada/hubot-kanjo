@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "cli-table": "^0.3.1",
-    "kanjo": "^0.1.0",
+    "kanjo": "^0.2.0",
     "round-to": "^1.1.0"
   },
   "devDependencies": {
